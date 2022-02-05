@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jsakoman1
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to find a job as a developer.
+- 📫 How to reach me - email!
